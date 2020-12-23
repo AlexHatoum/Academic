@@ -16,18 +16,19 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: R, Python, Matlab
   icon: r-project
   icon_pack: fab
-  name: R
-- description: 100%
+  name: Statistical programming
+- description:  Machine Learning, bioinformatics, Genomics  
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name:  Biostatistics 
+- description: Structural Equation Modeling, Hierarchical linear modeling, Multivariate Longitudinal Analysis
+  icon: chart-line
   icon_pack: fas
-  name: Photography
+  name:  Psychometrics and Social Science Statistics
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -43,3 +44,4 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 ---
+
