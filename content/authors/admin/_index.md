@@ -54,6 +54,5 @@ highlight_name: false
 
 With the growing recognition that addiction vulnerability is grounded in biology, I attempt to advance the study of addiciton through biostatical designs. Particuarly, I am interested in unifying methodologies in neuroimaging, informatics, mahchine learning, and genome-wide assocation studies. As I work predominately with the psychiatric genomics consortium substance use disorders working group, and I am incredibly fortunate to have enough data to put into place innovative biostatistical pipelines to capture patterns of addiction vulnerability. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "Downloadable_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
