@@ -21,6 +21,7 @@ interests:
 - Machine learning/Artificial Intelligence
 - Genomics
 - Psychology and Psychiatry
+- Substance Use Disorders
 - Neuroimaging
 
 
